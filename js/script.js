@@ -1,6 +1,6 @@
 /**
  * @file
- * Contains Tate and Lyle Custom Javascript behaviours.
+ 
  */
 
 /**

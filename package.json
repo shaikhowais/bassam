@@ -1,6 +1,6 @@
 {
   "name": "subtheme",
-  "author": "Bassam Ismail",
+  "author": "Shaikh Owais",
   "version": "1.0.0",
   "description": "subtheme frontend build setup",
   "main": "Gulpfile.js",
