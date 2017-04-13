@@ -1,0 +1,157 @@
+@media screen and (min-width: 481px) {
+
+
+body {
+    max-width: 80%;
+    padding: 30px;
+    margin: auto;
+    // line-height: 2.6;
+    font-size: 110%;
+}
+
+#block-d8-footersocial, .footer {
+    width: 50%;
+    line-height: 1;
+}
+#block-d8-footersocial {
+    float: right;
+    text-align: right;
+}
+
+.layout-sidebar-first {
+    clear: both;
+    overflow: hidden;
+}
+
+#block-d8-content p:last-child a {
+    font-size: 20px;
+    line-height: 1.5;
+    border-bottom: 2px solid #39f;
+}
+
+.footer {
+    float: left;
+}
+
+
+.views-element-container  li a {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+
+
+
+#block-d8-branding {
+    padding: 20px 0;
+    border-bottom: 1px solid #f3f3f3;
+    font-size: 45px;
+    margin: 15px 0;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+
+.views-element-container ul {
+    padding-left: 0;
+}
+
+h1.js-quickedit-page-title {
+    margin: 50px 0 0 0;
+    font-size: 24px;
+    color: #39f;
+}
+
+// journals
+.journal-page .layout-content {
+    padding: 30px 0;
+    border-bottom: 30px;
+}
+
+.journal-page .layout-content h1{
+    font-size: 25px;
+}
+
+
+.journal-page li {
+    margin-bottom: 22px;
+}
+
+.journal-page {
+    line-height: 2.6;
+}
+
+
+
+.journal-page #block-d8-content li {
+    line-height: 1;
+}
+.journal-page #block-d8-content span.field-content {
+    font-size: 12px;
+}
+
+
+#block-d8-local-tasks {
+    display: none;
+}
+
+.quickedit-field h1 {
+    color: #39f;
+}
+.contextual .js-quickedit-page-title {
+    color: green;
+}
+
+
+}
+
+@media screen and (max-width: 481px) {
+
+main {
+    padding: 10px
+}
+#block-d8-branding {
+    padding: 25px 0;
+    border-bottom: 1px solid #f3f3f3;
+    margin: auto;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+#block-d8-branding a {
+    text-decoration: none;
+    color: #f74343;
+    font-size: 23px;
+}
+
+#block-d8-content h2 {
+    margin: 5px;
+}
+
+.footer .info {
+    display: none;
+}
+#block-d8-footersocial, .footer {
+    line-height: 1;
+}
+
+#block-d8-content p:last-child a {
+    font-size: 17px;
+    line-height: 0.5;
+    border-bottom: 2px solid #39f;
+}
+.views-element-container ul {
+    padding-left: 10px;
+    line-height: 2.5;
+}
+
+h1.js-quickedit-page-title {
+    font-size: 24px;
+    color: #39f;
+}
+.journal-block li {
+    margin-bottom: 0;
+}
+
+}
+

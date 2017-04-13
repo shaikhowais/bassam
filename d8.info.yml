@@ -1,0 +1,7 @@
+name : D8
+description: Drupal 8 Theme
+type: theme
+core: 8.x
+libraries:
+  - d8/global-css
+  - d8/global-js

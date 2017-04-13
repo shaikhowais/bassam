@@ -1,0 +1,16 @@
+global-css:
+  css:
+    theme:
+      dist/css/main.css: {}
+
+global-js:
+  js:
+    build/script.js: {}
+  dependencies:
+    - core/jquery
+
+carousel:
+  js:
+    lib/slick.js: {}
+  dependencies:
+    - core/jquery
